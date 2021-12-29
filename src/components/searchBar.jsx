@@ -19,7 +19,11 @@ const SearchBar = memo(({ onSearch }) => {
 
   return (
     <header className={styles.header}>
-      <img className={styles.logo} src="/images/logo.png" alt="youtube img" />
+      <img
+        className={styles.logo}
+        src="./public/images/logo.png"
+        alt="youtube img"
+      />
       <h1 className={styles.title}>Youtube</h1>
       <input
         ref={inputRef}
@@ -31,7 +35,7 @@ const SearchBar = memo(({ onSearch }) => {
       <button className={styles.button} type="submit" onClick={onClick}>
         <img
           className={styles.buttonImg}
-          src="/images/search.png"
+          src="./public/images/search.png"
           alt="button"
         />
       </button>
