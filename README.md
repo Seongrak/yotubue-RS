@@ -9,7 +9,7 @@ https://seongrak.github.io/yotubue-RS/
 - Poplular 25 videos are shown before searching videos
 - React JS, HTML, CSS
 - Youtube API
-- 
+
 # Screenshots
 <img width="80%" src="https://user-images.githubusercontent.com/18034418/158435637-54058932-132e-4f92-976c-b4b670b67bdb.png" />
 
